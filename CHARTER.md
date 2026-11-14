@@ -1,29 +1,38 @@
-# Walmart-Midterm
-
-# Team Charter: Walmart Warriors
+# Team charter: Walmart Warriors
 
 ## Members
-- Nate (@NBushey26)
-- Claire (@kph4br)
-- Marlise (@MLuc123)
+- Claire (GitHub: kph4br)
+- Marlise (GitHub: MLuc123)
+- Nate (GitHub: NBushey26)
 
-## Goal
-What we're delivering for the midterm, and what "done" looks like.
+## Goals
+- **good result:** A notebook that we have all collaborated to make work. We want this notebook to reflect our best effort and demonstrate what we have been learning this semester.
+- **what each person wants:** Nate: To learn how to execute the project from start to finish. Claire: To work effectively as a team. Marlise: To learn more about putting the skills we have learned this semester together.
+- **time limits:** Other classes, extracurriculars, work.
+- **what to avoid:** Procrastinating, rushing, errors
 
 ## Roles
-- Notebook owner (rotates weekly): Claire this week
-- Who handles cleaning, analysis, writing, and presenting
 
-## Meetings
-Friday at noon, plus how we communicate between meetings (group chat, Discord, etc.)
+| Role | Owner | Backup |
+|---|---|---|
+| cleaning + decision log | Nate | Claire |
+| weather API + join | Claire | Marlise |
+| analysis Q1-Q5 | Marlise | Claire/Nate |
+| charts + presentation | Claire/Nate/Marlise | Claire/Nate/Marlise |
 
-## Working agreements
-- How we use GitHub (e.g. pull before you edit, don't overwrite each other's work)
-- Response time we expect from each other
-- Deadlines we set for ourselves ahead of the real due date
+## Question owners
 
-## Data decisions log
-Where we record calls like how to handle nulls, negative quantities, and duplicate rows.
+| Question | Owner | Reviewer |
+|---|---|---|
+| Q1 demand surge | Marlise | Claire/Nate |
+| Q2 SKU consolidation | Marlise | Claire/Nate |
+| Q3 weather correlation | Marlise | Claire/Nate |
+| Q4 stores and geography | Marlise | Claire/Nate |
+| Q5 signal or artifact | Marlise | Claire/Nate |
 
-## If something goes wrong
-What we do if someone misses a deadline or we disagree.
+## How we work
+- **repo url:** https://github.com/kph4br/Walmart-Midterm
+- **meeting time:** In class unless otherwise required
+- **channel:** Text/Email
+- **how we decide:** Majority vote
+- **if someone goes quiet:** Text them to see what is going on
