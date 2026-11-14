@@ -4,8 +4,8 @@ Team Walmart Warriors: Claire (@kph4br), Marlise (@MLuc123), Nate (@NBushey26)
 Cleans messy Walmart POS data from Florida (Sept 2024), joins it to Open-Meteo weather data, and answers five questions about pre-Hurricane Helene demand.
 
 ## Final notebook
-`notebooks/FINAL - Midterm Progress Lab 10.ipynb` contains the cleaning pipeline, decision log, weather API join, Q1–Q5, charts and reflection.
-Earlier checkpoint: `notebooks/FINAL - Midterm Checkpoint Lab 9.ipynb`. Slides: `notebooks/Walmart Midterm Slides.pptx`.
+`notebooks/FINAL - Walmart Midterm Notebook.ipynb` contains the cleaning pipeline, decision log, weather API join, Q1–Q5, charts and reflection.
+Earlier checkpoints: `notebooks/FINAL - Midterm Checkpoint Lab 9.ipynb` and `notebooks/FINAL - Midterm Progress Lab 10.ipynb`. Slides: `notebooks/Walmart Midterm Slides Final.pptx`.
 
 ## How to run
 1. Open the notebook in Google Colab (badge at the top).
