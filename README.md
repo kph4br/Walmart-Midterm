@@ -1,5 +1,5 @@
 # Walmart Hurricane Analytics (DS2002 Midterm)
-Team Walmart Warriors: Claire (@kph4br), Nate (@NBushey26), Marlise (@MLuc123)
+Team Walmart Warriors: Claire (@kph4br), Marlise (@MLuc123), Nate (@NBushey26)
 
 Cleans messy Walmart POS data from Florida (Sept 2024), joins it to Open-Meteo weather data, and answers five questions about pre-Hurricane Helene demand.
 
